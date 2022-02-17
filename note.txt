@@ -1,0 +1,8 @@
+----TypeScript----
+1. npm init -y
+2. npm i --save-dev typescript
+3. npx tsc -v [node_modules->bin->]
+4. npx tsc --init [tsconfig.json]
+5. npx tsc index.ts [convert index.ts to index.js]
+6. node index.js [see console log]
+7. npx tsc index --watch [real time file update when do anychane in code]
