@@ -5,4 +5,7 @@
 4. npx tsc --init [tsconfig.json]
 5. npx tsc index.ts [convert index.ts to index.js]
 6. node index.js [see console log]
-7. npx tsc index --watch [real time file update when do anychane in code]
+7. npx tsc index --watch [real time file update when do anychange in code]
+
+---- Installation typescript with react ----
+1. npx create-react-app ts-react --template typescript
